@@ -1,0 +1,20 @@
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\bin\Debug\App14NotifyIcon Tooltip.exe.config
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\bin\Debug\App14NotifyIcon Tooltip.exe
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\bin\Debug\App14NotifyIcon Tooltip.pdb
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon_Tooltip.Form1.resources
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon_Tooltip.Properties.Resources.resources
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.exe
+C:\Users\Família\source\repos\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.pdb
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\bin\Debug\App14NotifyIcon Tooltip.exe.config
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\bin\Debug\App14NotifyIcon Tooltip.exe
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\bin\Debug\App14NotifyIcon Tooltip.pdb
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.csprojAssemblyReference.cache
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon_Tooltip.Form1.resources
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon_Tooltip.Properties.Resources.resources
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.csproj.GenerateResource.cache
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.csproj.CoreCompileInputs.cache
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.exe
+D:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\App14NotifyIcon Tooltip\App14NotifyIcon Tooltip\obj\Debug\App14NotifyIcon Tooltip.pdb

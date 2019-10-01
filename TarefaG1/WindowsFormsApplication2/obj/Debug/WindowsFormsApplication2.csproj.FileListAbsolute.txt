@@ -1,0 +1,18 @@
+C:\Users\nome\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\nome\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\nome\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\nome\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\nome\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\nome\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\nome\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\nome\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\nome\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\Prof° Leandro\C#\TarefaG1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\Prof° Leandro\C#\TarefaG1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\Prof° Leandro\C#\TarefaG1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\Prof° Leandro\C#\TarefaG1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\Prof° Leandro\C#\TarefaG1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\Prof° Leandro\C#\TarefaG1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\Prof° Leandro\C#\TarefaG1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\Prof° Leandro\C#\TarefaG1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\Prof° Leandro\C#\TarefaG1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

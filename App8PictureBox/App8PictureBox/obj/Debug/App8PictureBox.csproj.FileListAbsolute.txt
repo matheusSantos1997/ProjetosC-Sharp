@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\bin\Debug\App8PictureBox.exe.config
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\bin\Debug\App8PictureBox.exe
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\bin\Debug\App8PictureBox.pdb
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\obj\Debug\App8PictureBox.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\obj\Debug\App8PictureBox.Form1.resources
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\obj\Debug\App8PictureBox.Properties.Resources.resources
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\obj\Debug\App8PictureBox.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\obj\Debug\App8PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\obj\Debug\App8PictureBox.exe
+C:\Users\Família\source\repos\App8PictureBox\App8PictureBox\obj\Debug\App8PictureBox.pdb

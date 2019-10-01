@@ -1,0 +1,15 @@
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Prof° Leandro\C#\Valores\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Prof° Leandro\C#\Valores\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Prof° Leandro\C#\Valores\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Prof° Leandro\C#\Valores\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Prof° Leandro\C#\Valores\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Prof° Leandro\C#\Valores\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\Prof° Leandro\C#\Valores\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Prof° Leandro\C#\Valores\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Prof° Leandro\C#\Valores\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

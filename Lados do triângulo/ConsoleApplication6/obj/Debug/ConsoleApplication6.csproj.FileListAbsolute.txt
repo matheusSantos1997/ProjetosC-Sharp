@@ -1,0 +1,24 @@
+c:\users\matheus\documents\visual studio 2012\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\users\matheus\documents\visual studio 2012\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\matheus\documents\visual studio 2012\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\matheus\documents\visual studio 2012\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+c:\users\matheus\documents\visual studio 2012\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\matheus\documents\visual studio 2012\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+G:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+G:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+G:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+G:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+G:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+G:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+D:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+D:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojAssemblyReference.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Lados do triângulo\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

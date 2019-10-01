@@ -1,0 +1,27 @@
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3Visual\Tarefa3Visual\bin\Debug\Tarefa3Visual.exe.config
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3Visual\Tarefa3Visual\bin\Debug\Tarefa3Visual.exe
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3Visual\Tarefa3Visual\bin\Debug\Tarefa3Visual.pdb
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.csprojResolveAssemblyReference.cache
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.Form1.resources
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.Properties.Resources.resources
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.csproj.GenerateResource.Cache
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.exe
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.pdb
+G:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\bin\Debug\Tarefa3Visual.exe.config
+G:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.exe
+G:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.pdb
+G:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\bin\Debug\Tarefa3Visual.exe
+G:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\bin\Debug\Tarefa3Visual.pdb
+G:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.csprojResolveAssemblyReference.cache
+G:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.Form1.resources
+G:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.Properties.Resources.resources
+G:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.csproj.GenerateResource.Cache
+D:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\bin\Debug\Tarefa3Visual.exe.config
+D:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.exe
+D:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.pdb
+D:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\bin\Debug\Tarefa3Visual.exe
+D:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\bin\Debug\Tarefa3Visual.pdb
+D:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.csprojResolveAssemblyReference.cache
+D:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.Form1.resources
+D:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.Properties.Resources.resources
+D:\Prof° Leandro\C#\Tarefa3Visual\Tarefa3Visual\obj\Debug\Tarefa3Visual.csproj.GenerateResource.Cache

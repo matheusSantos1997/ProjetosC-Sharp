@@ -1,0 +1,20 @@
+C:\Users\Familia\source\repos\criptocode\criptocode\bin\Debug\criptocode.exe.config
+C:\Users\Familia\source\repos\criptocode\criptocode\bin\Debug\criptocode.exe
+C:\Users\Familia\source\repos\criptocode\criptocode\bin\Debug\criptocode.pdb
+C:\Users\Familia\source\repos\criptocode\criptocode\obj\Debug\criptocode.csprojResolveAssemblyReference.cache
+C:\Users\Familia\source\repos\criptocode\criptocode\obj\Debug\criptocode.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\criptocode\criptocode\obj\Debug\criptocode.exe
+C:\Users\Familia\source\repos\criptocode\criptocode\obj\Debug\criptocode.pdb
+D:\projetos\PROJETOS - Linguagem C#\criptocode - APS 2sem\criptocode\bin\Debug\criptocode.exe.config
+D:\projetos\PROJETOS - Linguagem C#\criptocode - APS 2sem\criptocode\bin\Debug\criptocode.exe
+D:\projetos\PROJETOS - Linguagem C#\criptocode - APS 2sem\criptocode\bin\Debug\criptocode.pdb
+D:\projetos\PROJETOS - Linguagem C#\criptocode - APS 2sem\criptocode\obj\Debug\criptocode.csprojResolveAssemblyReference.cache
+D:\projetos\PROJETOS - Linguagem C#\criptocode - APS 2sem\criptocode\obj\Debug\criptocode.csproj.CoreCompileInputs.cache
+D:\projetos\PROJETOS - Linguagem C#\criptocode - APS 2sem\criptocode\obj\Debug\criptocode.exe
+D:\projetos\PROJETOS - Linguagem C#\criptocode - APS 2sem\criptocode\obj\Debug\criptocode.pdb
+D:\[Matheus Arquivos]\Atividades Práticas supervisionadas (APS) - UNIP\primeiro ano (2017)\APS Segundo Semestre\criptocode - APS 2sem\criptocode\bin\Debug\criptocode.exe.config
+D:\[Matheus Arquivos]\Atividades Práticas supervisionadas (APS) - UNIP\primeiro ano (2017)\APS Segundo Semestre\criptocode - APS 2sem\criptocode\bin\Debug\criptocode.exe
+D:\[Matheus Arquivos]\Atividades Práticas supervisionadas (APS) - UNIP\primeiro ano (2017)\APS Segundo Semestre\criptocode - APS 2sem\criptocode\bin\Debug\criptocode.pdb
+D:\[Matheus Arquivos]\Atividades Práticas supervisionadas (APS) - UNIP\primeiro ano (2017)\APS Segundo Semestre\criptocode - APS 2sem\criptocode\obj\Debug\criptocode.csprojAssemblyReference.cache
+D:\[Matheus Arquivos]\Atividades Práticas supervisionadas (APS) - UNIP\primeiro ano (2017)\APS Segundo Semestre\criptocode - APS 2sem\criptocode\obj\Debug\criptocode.exe
+D:\[Matheus Arquivos]\Atividades Práticas supervisionadas (APS) - UNIP\primeiro ano (2017)\APS Segundo Semestre\criptocode - APS 2sem\criptocode\obj\Debug\criptocode.pdb

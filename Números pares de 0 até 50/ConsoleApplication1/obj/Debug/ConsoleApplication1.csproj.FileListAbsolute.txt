@@ -1,0 +1,9 @@
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\Prof° Leandro\C#\Números pares de 0 até 50\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Prof° Leandro\C#\Números pares de 0 até 50\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Prof° Leandro\C#\Números pares de 0 até 50\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

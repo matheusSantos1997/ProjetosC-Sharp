@@ -1,0 +1,21 @@
+C:\Users\Familia\source\repos\matrizexer1\matrizexer1\bin\Debug\matrizexer1.exe.config
+C:\Users\Familia\source\repos\matrizexer1\matrizexer1\bin\Debug\matrizexer1.exe
+C:\Users\Familia\source\repos\matrizexer1\matrizexer1\bin\Debug\matrizexer1.pdb
+C:\Users\Familia\source\repos\matrizexer1\matrizexer1\obj\Debug\matrizexer1.csprojResolveAssemblyReference.cache
+C:\Users\Familia\source\repos\matrizexer1\matrizexer1\obj\Debug\matrizexer1.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\matrizexer1\matrizexer1\obj\Debug\matrizexer1.exe
+C:\Users\Familia\source\repos\matrizexer1\matrizexer1\obj\Debug\matrizexer1.pdb
+D:\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\bin\Debug\matrizexer1.exe.config
+D:\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\bin\Debug\matrizexer1.exe
+D:\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\bin\Debug\matrizexer1.pdb
+D:\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\obj\Debug\matrizexer1.csprojResolveAssemblyReference.cache
+D:\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\obj\Debug\matrizexer1.csproj.CoreCompileInputs.cache
+D:\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\obj\Debug\matrizexer1.exe
+D:\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\obj\Debug\matrizexer1.pdb
+F:\projetos\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\bin\Debug\matrizexer1.exe.config
+F:\projetos\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\bin\Debug\matrizexer1.exe
+F:\projetos\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\bin\Debug\matrizexer1.pdb
+F:\projetos\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\obj\Debug\matrizexer1.csprojResolveAssemblyReference.cache
+F:\projetos\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\obj\Debug\matrizexer1.csproj.CoreCompileInputs.cache
+F:\projetos\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\obj\Debug\matrizexer1.exe
+F:\projetos\PROJETOS - Linguagem C#\matrizexer1\matrizexer1\obj\Debug\matrizexer1.pdb

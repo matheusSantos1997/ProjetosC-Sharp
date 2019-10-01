@@ -1,0 +1,36 @@
+c:\users\fortec\documents\visual studio 2012\Projects\jogoniquel\jogoniquel\bin\Debug\jogoniquel.exe.config
+c:\users\fortec\documents\visual studio 2012\Projects\jogoniquel\jogoniquel\bin\Debug\jogoniquel.exe
+c:\users\fortec\documents\visual studio 2012\Projects\jogoniquel\jogoniquel\bin\Debug\jogoniquel.pdb
+c:\users\fortec\documents\visual studio 2012\Projects\jogoniquel\jogoniquel\obj\Debug\jogoniquel.csprojResolveAssemblyReference.cache
+c:\users\fortec\documents\visual studio 2012\Projects\jogoniquel\jogoniquel\obj\Debug\jogoniquel.Form1.resources
+c:\users\fortec\documents\visual studio 2012\Projects\jogoniquel\jogoniquel\obj\Debug\jogoniquel.Properties.Resources.resources
+c:\users\fortec\documents\visual studio 2012\Projects\jogoniquel\jogoniquel\obj\Debug\jogoniquel.csproj.GenerateResource.Cache
+c:\users\fortec\documents\visual studio 2012\Projects\jogoniquel\jogoniquel\obj\Debug\jogoniquel.exe
+c:\users\fortec\documents\visual studio 2012\Projects\jogoniquel\jogoniquel\obj\Debug\jogoniquel.pdb
+G:\Prof° Leandro\C#\jogoniquel\jogoniquel\bin\Debug\jogoniquel.exe.config
+G:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.exe
+G:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.pdb
+G:\Prof° Leandro\C#\jogoniquel\jogoniquel\bin\Debug\jogoniquel.exe
+G:\Prof° Leandro\C#\jogoniquel\jogoniquel\bin\Debug\jogoniquel.pdb
+G:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.csprojResolveAssemblyReference.cache
+G:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.Form1.resources
+G:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.Properties.Resources.resources
+G:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.csproj.GenerateResource.Cache
+D:\Prof° Leandro\C#\jogoniquel\jogoniquel\bin\Debug\jogoniquel.exe.config
+D:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.exe
+D:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.pdb
+D:\Prof° Leandro\C#\jogoniquel\jogoniquel\bin\Debug\jogoniquel.exe
+D:\Prof° Leandro\C#\jogoniquel\jogoniquel\bin\Debug\jogoniquel.pdb
+D:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.csprojResolveAssemblyReference.cache
+D:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.Form1.resources
+D:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.Properties.Resources.resources
+D:\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.csproj.GenerateResource.Cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\jogoniquel\jogoniquel\bin\Debug\jogoniquel.exe.config
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\jogoniquel\jogoniquel\bin\Debug\jogoniquel.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\jogoniquel\jogoniquel\bin\Debug\jogoniquel.pdb
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.csprojAssemblyReference.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.Form1.resources
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.Properties.Resources.resources
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.csproj.GenerateResource.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\jogoniquel\jogoniquel\obj\Debug\jogoniquel.pdb

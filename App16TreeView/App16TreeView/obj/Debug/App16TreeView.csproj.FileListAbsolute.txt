@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\bin\Debug\App16TreeView.exe.config
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\bin\Debug\App16TreeView.exe
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\bin\Debug\App16TreeView.pdb
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\obj\Debug\App16TreeView.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\obj\Debug\App16TreeView.Form1.resources
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\obj\Debug\App16TreeView.Properties.Resources.resources
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\obj\Debug\App16TreeView.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\obj\Debug\App16TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\obj\Debug\App16TreeView.exe
+C:\Users\Família\source\repos\App16TreeView\App16TreeView\obj\Debug\App16TreeView.pdb

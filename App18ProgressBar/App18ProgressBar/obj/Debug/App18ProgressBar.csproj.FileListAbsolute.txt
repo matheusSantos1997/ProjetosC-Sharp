@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\bin\Debug\App18ProgressBar.exe.config
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\bin\Debug\App18ProgressBar.exe
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\bin\Debug\App18ProgressBar.pdb
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\obj\Debug\App18ProgressBar.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\obj\Debug\App18ProgressBar.Form1.resources
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\obj\Debug\App18ProgressBar.Properties.Resources.resources
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\obj\Debug\App18ProgressBar.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\obj\Debug\App18ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\obj\Debug\App18ProgressBar.exe
+C:\Users\Família\source\repos\App18ProgressBar\App18ProgressBar\obj\Debug\App18ProgressBar.pdb

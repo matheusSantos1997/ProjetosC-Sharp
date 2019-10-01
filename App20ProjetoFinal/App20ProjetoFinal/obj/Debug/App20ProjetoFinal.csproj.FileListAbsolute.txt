@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\bin\Debug\App20ProjetoFinal.exe.config
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\bin\Debug\App20ProjetoFinal.exe
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\bin\Debug\App20ProjetoFinal.pdb
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\obj\Debug\App20ProjetoFinal.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\obj\Debug\App20ProjetoFinal.JanelaPrincipal.resources
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\obj\Debug\App20ProjetoFinal.Properties.Resources.resources
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\obj\Debug\App20ProjetoFinal.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\obj\Debug\App20ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\obj\Debug\App20ProjetoFinal.exe
+C:\Users\Família\source\repos\App20ProjetoFinal\App20ProjetoFinal\obj\Debug\App20ProjetoFinal.pdb

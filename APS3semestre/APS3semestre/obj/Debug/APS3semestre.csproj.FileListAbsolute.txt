@@ -1,0 +1,32 @@
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\bin\Debug\APS3semestre.exe.config
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\bin\Debug\APS3semestre.exe
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\bin\Debug\APS3semestre.pdb
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\obj\Debug\APS3semestre.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\obj\Debug\APS3semestre.Form1.resources
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\obj\Debug\APS3semestre.Properties.Resources.resources
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\obj\Debug\APS3semestre.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\obj\Debug\APS3semestre.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\obj\Debug\APS3semestre.exe
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\obj\Debug\APS3semestre.pdb
+C:\Users\Família\source\repos\APS3semestre\APS3semestre\obj\Debug\APS3semestre.Form2.resources
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\bin\Debug\APS3semestre.exe.config
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\bin\Debug\APS3semestre.exe
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\bin\Debug\APS3semestre.pdb
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.csprojAssemblyReference.cache
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.Form1.resources
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.Form2.resources
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.Properties.Resources.resources
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.csproj.GenerateResource.cache
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.csproj.CoreCompileInputs.cache
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.exe
+E:\(ARQUIVOS MATHEUS)\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.pdb
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\bin\Debug\APS3semestre.exe.config
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\bin\Debug\APS3semestre.exe
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\bin\Debug\APS3semestre.pdb
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.csprojAssemblyReference.cache
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.Form1.resources
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.Form2.resources
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.Properties.Resources.resources
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.csproj.GenerateResource.cache
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.exe
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\APS3semestre\APS3semestre\obj\Debug\APS3semestre.pdb

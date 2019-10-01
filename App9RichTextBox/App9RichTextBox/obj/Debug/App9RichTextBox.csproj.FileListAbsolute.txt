@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\bin\Debug\App9RichTextBox.exe.config
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\bin\Debug\App9RichTextBox.exe
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\bin\Debug\App9RichTextBox.pdb
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\obj\Debug\App9RichTextBox.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\obj\Debug\App9RichTextBox.Form1.resources
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\obj\Debug\App9RichTextBox.Properties.Resources.resources
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\obj\Debug\App9RichTextBox.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\obj\Debug\App9RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\obj\Debug\App9RichTextBox.exe
+C:\Users\Família\source\repos\App9RichTextBox\App9RichTextBox\obj\Debug\App9RichTextBox.pdb

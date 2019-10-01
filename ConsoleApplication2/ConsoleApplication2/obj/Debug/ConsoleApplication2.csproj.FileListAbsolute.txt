@@ -1,0 +1,21 @@
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\nome\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+G:\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+G:\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+G:\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\Arquivos Fortec\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Arquivos Fortec\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Arquivos Fortec\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\Arquivos Fortec\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Arquivos Fortec\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Arquivos Fortec\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojAssemblyReference.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

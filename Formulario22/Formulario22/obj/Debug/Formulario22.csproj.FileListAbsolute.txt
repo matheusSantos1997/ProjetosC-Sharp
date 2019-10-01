@@ -1,0 +1,22 @@
+c:\users\fortec\documents\visual studio 2012\Projects\Formulario22\Formulario22\bin\Debug\Formulario22.exe.config
+c:\users\fortec\documents\visual studio 2012\Projects\Formulario22\Formulario22\obj\Debug\Formulario22.csprojResolveAssemblyReference.cache
+c:\users\fortec\documents\visual studio 2012\Projects\Formulario22\Formulario22\obj\Debug\Formulario22.Form1.resources
+c:\users\fortec\documents\visual studio 2012\Projects\Formulario22\Formulario22\obj\Debug\Formulario22.Properties.Resources.resources
+c:\users\fortec\documents\visual studio 2012\Projects\Formulario22\Formulario22\obj\Debug\Formulario22.csproj.GenerateResource.Cache
+c:\users\fortec\documents\visual studio 2012\Projects\Formulario22\Formulario22\bin\Debug\Formulario22.exe
+c:\users\fortec\documents\visual studio 2012\Projects\Formulario22\Formulario22\bin\Debug\Formulario22.pdb
+c:\users\fortec\documents\visual studio 2012\Projects\Formulario22\Formulario22\obj\Debug\Formulario22.exe
+c:\users\fortec\documents\visual studio 2012\Projects\Formulario22\Formulario22\obj\Debug\Formulario22.pdb
+D:\Prof° Leandro\C#\Formulario22\Formulario22\bin\Debug\Formulario22.exe.config
+D:\Prof° Leandro\C#\Formulario22\Formulario22\obj\Debug\Formulario22.exe
+D:\Prof° Leandro\C#\Formulario22\Formulario22\obj\Debug\Formulario22.pdb
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\bin\Debug\Formulario22.exe.config
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\bin\Debug\Formulario22.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\bin\Debug\Formulario22.pdb
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\obj\Debug\Formulario22.csprojAssemblyReference.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\obj\Debug\Formulario22.Form1.resources
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\obj\Debug\Formulario22.Form2.resources
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\obj\Debug\Formulario22.Properties.Resources.resources
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\obj\Debug\Formulario22.csproj.GenerateResource.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\obj\Debug\Formulario22.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\Formulario22\Formulario22\obj\Debug\Formulario22.pdb

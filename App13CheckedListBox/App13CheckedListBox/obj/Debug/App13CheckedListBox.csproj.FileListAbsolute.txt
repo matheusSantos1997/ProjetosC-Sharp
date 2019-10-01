@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\bin\Debug\App13CheckedListBox.exe.config
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\bin\Debug\App13CheckedListBox.exe
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\bin\Debug\App13CheckedListBox.pdb
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\obj\Debug\App13CheckedListBox.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\obj\Debug\App13CheckedListBox.Form1.resources
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\obj\Debug\App13CheckedListBox.Properties.Resources.resources
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\obj\Debug\App13CheckedListBox.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\obj\Debug\App13CheckedListBox.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\obj\Debug\App13CheckedListBox.exe
+C:\Users\Família\source\repos\App13CheckedListBox\App13CheckedListBox\obj\Debug\App13CheckedListBox.pdb

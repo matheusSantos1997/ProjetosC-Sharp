@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\bin\Debug\App19WebBrowser.exe.config
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\bin\Debug\App19WebBrowser.exe
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\bin\Debug\App19WebBrowser.pdb
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\obj\Debug\App19WebBrowser.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\obj\Debug\App19WebBrowser.Form1.resources
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\obj\Debug\App19WebBrowser.Properties.Resources.resources
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\obj\Debug\App19WebBrowser.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\obj\Debug\App19WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\obj\Debug\App19WebBrowser.exe
+C:\Users\Família\source\repos\App19WebBrowser\App19WebBrowser\obj\Debug\App19WebBrowser.pdb

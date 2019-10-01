@@ -1,0 +1,17 @@
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa2Curriculo\Tarefa2Curriculo\bin\Debug\Tarefa2Curriculo.exe.config
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa2Curriculo\Tarefa2Curriculo\bin\Debug\Tarefa2Curriculo.exe
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa2Curriculo\Tarefa2Curriculo\bin\Debug\Tarefa2Curriculo.pdb
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa2Curriculo\Tarefa2Curriculo\obj\Debug\Tarefa2Curriculo.exe
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa2Curriculo\Tarefa2Curriculo\obj\Debug\Tarefa2Curriculo.pdb
+G:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\bin\Debug\Tarefa2Curriculo.exe.config
+G:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\obj\Debug\Tarefa2Curriculo.exe
+G:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\obj\Debug\Tarefa2Curriculo.pdb
+G:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\bin\Debug\Tarefa2Curriculo.exe
+G:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\bin\Debug\Tarefa2Curriculo.pdb
+G:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\obj\Debug\Tarefa2Curriculo.csprojResolveAssemblyReference.cache
+D:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\bin\Debug\Tarefa2Curriculo.exe.config
+D:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\obj\Debug\Tarefa2Curriculo.exe
+D:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\obj\Debug\Tarefa2Curriculo.pdb
+D:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\bin\Debug\Tarefa2Curriculo.exe
+D:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\bin\Debug\Tarefa2Curriculo.pdb
+D:\Prof° Leandro\C#\Tarefa2Curriculo\Tarefa2Curriculo\obj\Debug\Tarefa2Curriculo.csprojResolveAssemblyReference.cache

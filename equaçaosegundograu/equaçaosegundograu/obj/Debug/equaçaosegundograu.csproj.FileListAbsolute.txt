@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\equaçaosegundograu\equaçaosegundograu\bin\Debug\equaçaosegundograu.exe.config
+C:\Users\Matheus\source\repos\equaçaosegundograu\equaçaosegundograu\bin\Debug\equaçaosegundograu.exe
+C:\Users\Matheus\source\repos\equaçaosegundograu\equaçaosegundograu\bin\Debug\equaçaosegundograu.pdb
+C:\Users\Matheus\source\repos\equaçaosegundograu\equaçaosegundograu\obj\Debug\equaçaosegundograu.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\source\repos\equaçaosegundograu\equaçaosegundograu\obj\Debug\equaçaosegundograu.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\equaçaosegundograu\equaçaosegundograu\obj\Debug\equaçaosegundograu.exe
+C:\Users\Matheus\source\repos\equaçaosegundograu\equaçaosegundograu\obj\Debug\equaçaosegundograu.pdb

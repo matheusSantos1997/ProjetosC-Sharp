@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\bin\Debug\App11MaskedTextBox LinkLabel.exe.config
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\bin\Debug\App11MaskedTextBox LinkLabel.exe
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\bin\Debug\App11MaskedTextBox LinkLabel.pdb
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\obj\Debug\App11MaskedTextBox LinkLabel.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\obj\Debug\App11MaskedTextBox_LinkLabel.Form1.resources
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\obj\Debug\App11MaskedTextBox_LinkLabel.Properties.Resources.resources
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\obj\Debug\App11MaskedTextBox LinkLabel.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\obj\Debug\App11MaskedTextBox LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\obj\Debug\App11MaskedTextBox LinkLabel.exe
+C:\Users\Família\source\repos\App11MaskedTextBox LinkLabel\App11MaskedTextBox LinkLabel\obj\Debug\App11MaskedTextBox LinkLabel.pdb

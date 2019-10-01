@@ -1,0 +1,27 @@
+c:\users\fortec\documents\visual studio 2012\Projects\botoes\botoes\bin\Debug\botoes.exe.config
+c:\users\fortec\documents\visual studio 2012\Projects\botoes\botoes\bin\Debug\botoes.exe
+c:\users\fortec\documents\visual studio 2012\Projects\botoes\botoes\bin\Debug\botoes.pdb
+c:\users\fortec\documents\visual studio 2012\Projects\botoes\botoes\obj\Debug\botoes.csprojResolveAssemblyReference.cache
+c:\users\fortec\documents\visual studio 2012\Projects\botoes\botoes\obj\Debug\botoes.Form1.resources
+c:\users\fortec\documents\visual studio 2012\Projects\botoes\botoes\obj\Debug\botoes.Properties.Resources.resources
+c:\users\fortec\documents\visual studio 2012\Projects\botoes\botoes\obj\Debug\botoes.csproj.GenerateResource.Cache
+c:\users\fortec\documents\visual studio 2012\Projects\botoes\botoes\obj\Debug\botoes.exe
+c:\users\fortec\documents\visual studio 2012\Projects\botoes\botoes\obj\Debug\botoes.pdb
+G:\Prof° Leandro\C#\botoes\botoes\bin\Debug\botoes.exe.config
+G:\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.exe
+G:\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.pdb
+G:\Prof° Leandro\C#\botoes\botoes\bin\Debug\botoes.exe
+G:\Prof° Leandro\C#\botoes\botoes\bin\Debug\botoes.pdb
+G:\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.csprojResolveAssemblyReference.cache
+G:\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.Form1.resources
+G:\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.Properties.Resources.resources
+G:\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.csproj.GenerateResource.Cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\botoes\botoes\bin\Debug\botoes.exe.config
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\botoes\botoes\bin\Debug\botoes.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\botoes\botoes\bin\Debug\botoes.pdb
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.csprojAssemblyReference.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.Form1.resources
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.Properties.Resources.resources
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.csproj.GenerateResource.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\botoes\botoes\obj\Debug\botoes.pdb

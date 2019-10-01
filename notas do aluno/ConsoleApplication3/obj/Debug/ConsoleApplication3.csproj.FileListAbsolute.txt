@@ -1,0 +1,21 @@
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\fortec\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+G:\Prof° Leandro\C#\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+G:\Prof° Leandro\C#\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+G:\Prof° Leandro\C#\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+G:\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+G:\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+G:\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+G:\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+G:\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+G:\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojAssemblyReference.cache
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\[Matheus Arquivos]\Projetos FORTEC\Prof° Leandro\C#\notas do aluno\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

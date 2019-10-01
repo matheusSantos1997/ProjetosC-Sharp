@@ -1,0 +1,20 @@
+C:\Users\RODRIGO\source\repos\aps\aps\bin\Debug\aps.exe.config
+C:\Users\RODRIGO\source\repos\aps\aps\bin\Debug\aps.exe
+C:\Users\RODRIGO\source\repos\aps\aps\bin\Debug\aps.pdb
+C:\Users\RODRIGO\source\repos\aps\aps\obj\Debug\aps.csprojAssemblyReference.cache
+C:\Users\RODRIGO\source\repos\aps\aps\obj\Debug\aps.csproj.CoreCompileInputs.cache
+C:\Users\RODRIGO\source\repos\aps\aps\obj\Debug\aps.exe
+C:\Users\RODRIGO\source\repos\aps\aps\obj\Debug\aps.pdb
+C:\Users\Família\Desktop\aps\aps\bin\Debug\aps.exe.config
+C:\Users\Família\Desktop\aps\aps\bin\Debug\aps.exe
+C:\Users\Família\Desktop\aps\aps\bin\Debug\aps.pdb
+C:\Users\Família\Desktop\aps\aps\obj\Debug\aps.csprojAssemblyReference.cache
+C:\Users\Família\Desktop\aps\aps\obj\Debug\aps.csproj.CoreCompileInputs.cache
+C:\Users\Família\Desktop\aps\aps\obj\Debug\aps.exe
+C:\Users\Família\Desktop\aps\aps\obj\Debug\aps.pdb
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\aps\aps\bin\Debug\aps.exe.config
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\aps\aps\bin\Debug\aps.exe
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\aps\aps\bin\Debug\aps.pdb
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\aps\aps\obj\Debug\aps.csprojAssemblyReference.cache
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\aps\aps\obj\Debug\aps.exe
+D:\[Matheus Arquivos]\Cursos online\Udemy\Curso Online Udemy C# Windows Forms Application (concluído)\aps\aps\obj\Debug\aps.pdb

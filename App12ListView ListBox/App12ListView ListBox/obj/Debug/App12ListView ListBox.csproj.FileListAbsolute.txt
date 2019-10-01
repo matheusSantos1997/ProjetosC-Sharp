@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\bin\Debug\App12ListView ListBox.exe.config
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\bin\Debug\App12ListView ListBox.exe
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\bin\Debug\App12ListView ListBox.pdb
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\obj\Debug\App12ListView ListBox.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\obj\Debug\App12ListView_ListBox.Form1.resources
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\obj\Debug\App12ListView_ListBox.Properties.Resources.resources
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\obj\Debug\App12ListView ListBox.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\obj\Debug\App12ListView ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\obj\Debug\App12ListView ListBox.exe
+C:\Users\Família\source\repos\App12ListView ListBox\App12ListView ListBox\obj\Debug\App12ListView ListBox.pdb

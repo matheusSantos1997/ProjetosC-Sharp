@@ -1,0 +1,15 @@
+c:\users\fortec\documents\visual studio 2012\Projects\Tarefa3\Tarefa3\bin\Debug\Tarefa3.exe.config
+C:\Users\Fortec\Documents\Visual Studio 2012\Projects\Tarefa3\Tarefa3\bin\Debug\Tarefa3.exe
+C:\Users\Fortec\Documents\Visual Studio 2012\Projects\Tarefa3\Tarefa3\bin\Debug\Tarefa3.pdb
+C:\Users\Fortec\Documents\Visual Studio 2012\Projects\Tarefa3\Tarefa3\obj\Debug\Tarefa3.csprojResolveAssemblyReference.cache
+C:\Users\Fortec\Documents\Visual Studio 2012\Projects\Tarefa3\Tarefa3\obj\Debug\Tarefa3.exe
+C:\Users\Fortec\Documents\Visual Studio 2012\Projects\Tarefa3\Tarefa3\obj\Debug\Tarefa3.pdb
+G:\Prof° Leandro\C#\Tarefa3\Tarefa3\bin\Debug\Tarefa3.exe.config
+G:\Prof° Leandro\C#\Tarefa3\Tarefa3\obj\Debug\Tarefa3.exe
+G:\Prof° Leandro\C#\Tarefa3\Tarefa3\obj\Debug\Tarefa3.pdb
+D:\Prof° Leandro\C#\Tarefa3\Tarefa3\bin\Debug\Tarefa3.exe.config
+D:\Prof° Leandro\C#\Tarefa3\Tarefa3\obj\Debug\Tarefa3.exe
+D:\Prof° Leandro\C#\Tarefa3\Tarefa3\obj\Debug\Tarefa3.pdb
+D:\Arquivos Fortec\Prof° Leandro\C#\Tarefa3\Tarefa3\bin\Debug\Tarefa3.exe.config
+D:\Arquivos Fortec\Prof° Leandro\C#\Tarefa3\Tarefa3\obj\Debug\Tarefa3.exe
+D:\Arquivos Fortec\Prof° Leandro\C#\Tarefa3\Tarefa3\obj\Debug\Tarefa3.pdb

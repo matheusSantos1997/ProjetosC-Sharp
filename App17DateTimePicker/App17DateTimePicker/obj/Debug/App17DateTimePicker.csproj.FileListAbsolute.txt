@@ -1,0 +1,10 @@
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\bin\Debug\App17DateTimePicker.exe.config
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\bin\Debug\App17DateTimePicker.exe
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\bin\Debug\App17DateTimePicker.pdb
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\obj\Debug\App17DateTimePicker.csprojAssemblyReference.cache
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\obj\Debug\App17DateTimePicker.Form1.resources
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\obj\Debug\App17DateTimePicker.Properties.Resources.resources
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\obj\Debug\App17DateTimePicker.csproj.GenerateResource.cache
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\obj\Debug\App17DateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\obj\Debug\App17DateTimePicker.exe
+C:\Users\Família\source\repos\App17DateTimePicker\App17DateTimePicker\obj\Debug\App17DateTimePicker.pdb
